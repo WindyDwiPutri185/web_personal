@@ -1,0 +1,142 @@
+body{
+    background-color: rgb(248, 243, 217);
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 5px 15px;
+    background: rgb(185, 178, 138);
+}
+
+header a{
+    text-decoration: none;
+    color: rgb(80, 75, 56);
+}
+
+main{
+    margin-top: 100px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.Sejarah {
+    margin-left: 50px;
+    margin-right: 50px;
+    color: rgb(80, 75, 56);
+    display: flex;
+    gap: 2rem;
+}
+
+.Sejarah p{
+    margin-top: 5px;
+}
+
+.Sejarah img{
+    width: 405px;
+    margin-top: 7px;
+}
+
+.lokasi{
+    color: rgb(80, 75, 56);
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.loks{
+    color: rgb(80, 75, 56);
+    display: flex;
+    gap: 2rem;
+}
+
+.loks p{
+    margin-top: 5px;
+}
+
+.loks img{
+    width: 405px;
+    margin-top: 7px;
+}
+
+.strukturorganisasi{
+    display: flex;
+    margin-left: 50px;
+    margin-right: 50px;
+    color: rgb(80, 75, 56);
+    gap: 2rem
+}
+
+.ngaranimah{
+    color: rgb(80, 75, 56);
+}
+
+.ngaran{
+    color: rgb(80, 75, 56);
+    display: flex;
+    gap: 2rem;
+
+}
+.ngaran img{
+    width: 420px;
+    margin-top: 7px;
+}
+
+.ngaran p{
+    margin-top: 5px;
+}
+
+.jumlah_aturan{
+    display: flex;
+    margin-left: 50px;
+    margin-right: 50px;
+    color: rgb(80, 75, 56);
+    gap: 2rem
+}
+
+.jumlah{
+    color: rgb(80, 75, 56);
+}
+
+.aturan{
+    color: rgb(80, 75, 56);
+}
+
+.flex{
+    display: flex;
+    margin-left: 50px;
+    margin-right: 50px;
+    color: rgb(80, 75, 56);
+    gap: 2rem   
+}
+
+.upacara{
+    color: rgb(80, 75, 56);
+}
+
+.upacaraadat{
+    display: flex;
+    margin-left: 50px;
+    margin-right: 50px;
+    color: rgb(80, 75, 56);
+    gap: 2rem   
+}
+
+.imgupacara img{
+    width: 450px;
+    margin-top: 7px;
+}
+
+.agamafakta{
+    color: rgb(80, 75, 56);
+}
+
+.agama_fakta{
+    display: flex;
+    margin-left: 50px;
+    margin-right: 50px;
+    color: rgb(80, 75, 56);
+    gap: 2rem   
+}
+
+.fakta{}
